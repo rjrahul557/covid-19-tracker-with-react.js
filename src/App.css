@@ -8,6 +8,7 @@ body{
   display: flex;
   justify-content: space-evenly;
   padding: 20px;
+  height: 100vh;
 }
 .app_header{
   display: flex;
@@ -19,6 +20,7 @@ body{
 .app_left{
   flex:0.9;
 }
+
 
 .app_stats{
   display: flex;
